@@ -28,8 +28,9 @@ Eventually aspiring to work as a security engineer building and developing the p
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Datadog-632CA6?&style=for-the-badge&logo=Datadog&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AppDynamics-FF6D00?&style=for-the-badge&logo=AppDynamics&logoColor=white" />
 </div>
 ### Cloud
 <div>
