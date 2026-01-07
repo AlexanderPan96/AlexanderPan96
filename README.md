@@ -1,13 +1,13 @@
-# Hello, I'm Alexander Pan 👋
+# Hello, I'm Alexander Pan
 
 <a href="https://www.linkedin.com/in/alexander-pan-505034177/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://your-portfolio-url.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-6366f1?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://alexanderpan-me.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-6366f1?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-## 🎯 About Me
+## About Me
 
 I'm a Software Engineering student at École de Technologie Supérieure (ÉTS) in Montreal, passionate about **DevSecOps**, **Cloud Security**, and **Security Engineering**. With a unique background in math education and portfolio management, I bring a diverse perspective to building secure, automated, and scalable infrastructure.
 
-## 🚀 Career Objective
+## Career Objective
 
 My journey in software engineering has ignited a passion for integrating security into every stage of the development lifecycle. I'm eager to transition into **DevSecOps** and **Cloud Security** roles, where I can:
 
@@ -18,7 +18,7 @@ My journey in software engineering has ignited a passion for integrating securit
 
 **Long-term goal:** Become a Security Engineer/Architect who designs resilient, secure-by-design systems that protect organizations while enabling development velocity.
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white)
@@ -45,7 +45,7 @@ My journey in software engineering has ignited a passion for integrating securit
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white)
 
-## 🔒 Security Focus Areas
+## Security Focus Areas
 
 | Area | Skills & Technologies |
 |------|----------------------|
@@ -55,35 +55,30 @@ My journey in software engineering has ignited a passion for integrating securit
 | **Infrastructure Security** | Secure IaC practices, network security, compliance as code |
 | **Security Monitoring** | SIEM tools (Splunk, Datadog), log analysis, threat detection |
 
-## 🛠️ Featured Projects
+## Featured Projects
 
-### ⚙️ DevOps Projects
+### DevOps Projects
 - **CI/CD Pipeline Automation** - Automated deployment pipeline with Docker, GitHub Actions, and Kubernetes
 - **Infrastructure as Code** - Terraform and Ansible modules for multi-tier application deployment
 
-### ☁️ Cloud Infrastructure Projects
+### Cloud Infrastructure Projects
 - **Scalable Web Application on AWS** - High-availability architecture with auto-scaling and load balancing
 - **Serverless Application Architecture** - Event-driven design using AWS Lambda, API Gateway, and DynamoDB
 
-### 🔒 Cybersecurity Projects
+### Cybersecurity Projects
 - **Identity & Access Management System** - Comprehensive IAM solution with RBAC, MFA, and audit logging
 - **Cloud Security Monitoring** - Automated security monitoring and compliance checking for cloud infrastructure
 
-*📂 Detailed project documentation and code coming soon to individual repositories*
+**Note:** Detailed project documentation and code coming soon to individual repositories
 
-## 📚 Continuous Learning
+## Continuous Learning
 
 **Current Focus:**
-- **TryHackMe** - Hands-on cybersecurity challenges and CTF competitions
+- **TryHackMe** - Hands-on cybersecurity challenges
 - **Udemy & Coursera** - AWS certification courses, DevSecOps best practices
 - **YouTube** - Following industry experts and security researchers
 
-**Preparing For:**
-- AWS Certified Solutions Architect - Associate
-- AWS Certified Security - Specialty
-- (ISC)² SSCP or CompTIA Security+
-
-## 🎓 Education
+## Education
 
 **Bachelor of Software Engineering**  
 École de Technologie Supérieure (ÉTS), Montreal  
@@ -91,22 +86,18 @@ My journey in software engineering has ignited a passion for integrating securit
 
 **Focus:** Object-Oriented Programming, Software Architecture, Project Management, Security-First Development
 
-## 🌟 What Makes Me Different
+## What Makes Me Different
 
 - **Diverse Background:** Former math teacher and portfolio manager bringing unique problem-solving and risk assessment skills
 - **Security-First Mindset:** Integrating security considerations from the start, not as an afterthought
 - **Continuous Learner:** Actively expanding skills through hands-on projects and structured learning
 - **Clear Communication:** Ability to explain complex technical concepts to both technical and non-technical audiences
 
-## 📫 Let's Connect!
+## Contact
 
-I'm actively seeking opportunities in **DevSecOps**, **Cloud Security**, and **Security Engineering**. If you're looking for someone passionate about building secure, automated infrastructure, let's talk!
+I'm actively seeking opportunities in **DevSecOps**, **Cloud Security**, and **Security Engineering**. If you're looking for someone passionate about building secure, automated infrastructure, let's connect.
 
-- 🌐 **Portfolio:** [your-portfolio-url.vercel.app](https://your-portfolio-url.vercel.app)
-- 💼 **LinkedIn:** [alexander-pan-505034177](https://www.linkedin.com/in/alexander-pan-505034177/)
-- 📧 **Email:** your.email@example.com
-- 📍 **Location:** Montreal, Canada 🍁
-
----
-
-*"Security is not a product, but a process." - Bruce Schneier*
+- **Portfolio:** [alexanderpan-me.vercel.app](https://alexanderpan-me.vercel.app/)
+- **LinkedIn:** [alexander-pan-505034177](https://www.linkedin.com/in/alexander-pan-505034177/)
+- **Email:** alexanderpan845@gmail.com
+- **Location:** Montreal, Canada
